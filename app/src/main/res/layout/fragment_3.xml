@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_margin="20dp"
+    tools:context=".Frag1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:id="@+id/rl3"
+        android:layout_width="match_parent"
+        android:layout_height="506dp"
+        android:background="#FFEB3B">
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="353dp"
+            android:layout_height="372dp"
+            android:text="@string/fact1"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btnChange"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text"
+            android:text="Change Color" />
+
+    </RelativeLayout>
+
+</FrameLayout>

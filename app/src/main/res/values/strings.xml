@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P10PS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fact1">Ostriches can run faster than horses \n\nPush into the crocodile eyeballs to let you go \n\nFleas can jump up to 200 times their height, equivalent to man jumping the Empire State Building </string>
+</resources>
